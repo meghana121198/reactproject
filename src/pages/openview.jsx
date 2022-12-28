@@ -14,7 +14,7 @@ return (
     <div className='hde'><br/>
     <span className='lft'>
     <p className='rtt'>The</p>
-        <span className='fs-1'>SKIES ON LAND</span>
+        <span className='fs-1'>Nature in Mind</span>
     </span>
     <button className='gta'>Click for More</button>
     </div>
@@ -25,10 +25,10 @@ return (
         </div>  
         <div>  
         <br/><br/>
-        <h1 style={{color:"black"}}>You can wander about it</h1><br/>
+        <h1 style={{color:"black"}}>Reconnecting with life</h1><br/>
         <div className='icc'></div>
         <br/><br/>
-        <div className='bgt'>Nature is natural. Theres something about the outdoors that gets our blood flowing smoother and our heart beating stronger. Theres probably some sort of research about endorphins and all sorts of science that can explain why the wilderness refreshes us. These nature quotes on life and natural beauty will get you excited about being outside, whether you need it or not.</div>
+        <div className='bgt'>With Earth Day coming up April 22, people tend to start thinking and talking about nature conservation more and more at this time of year. But our goal is to encourage people to embrace the beauty of nature and wildlife all year around. So when some of our blogging friends discussed having a monthly themed blog carnival, we immediately volunteered to host a Nature Travel round-up this month to draw more attention to the joys of ecotourism.</div>
 
         <br/><br/>
         <img className='nmn' src={img11} alt=""/><br/><br/><hr/>
@@ -38,8 +38,8 @@ return (
         </div>
         <div>
             <span className='hhh'>
-            <b>Meghana paradise💖</b><br/>
-            <span>ones who loves nature.</span></span>
+            <b>Meghana V Gowda</b><br/>
+            <span>whole of nature and its beauty.</span></span>
         </div>
         </div>
 
