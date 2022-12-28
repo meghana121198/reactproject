@@ -3,12 +3,12 @@ import Header from '../components/header'
 import '../app.css'
 import Xxx from '../components/xxx'
 
-export default function Lakes() {
+export default function restoration() {
   return (
     <>
     <Header />
     <br />
-    <h1>Lakes</h1>
+    <h1>restoration</h1>
     <div className='blne'></div> <br />
     <Xxx/>
     </>
