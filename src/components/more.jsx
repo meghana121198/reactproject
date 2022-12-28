@@ -16,7 +16,7 @@ return (
             <span className='font-weight-light fs-6'>
             Open your senses to the natural wonders around you and let yourself become immersed in the superb beauty and splendor of flowers, and the wonders of Scared Geometry.
             </span><br /><br /><br />
-            <footer className='blockquote-footer mb-0 mr-0 fs-5'>$anjay Pering@yil</footer>
+            <footer className='blockquote-footer mb-0 mr-0 fs-5'>Meghagowda@yil</footer>
         </div>
     </div></Link>
     <br />
