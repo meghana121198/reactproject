@@ -10,9 +10,9 @@ return (
         <div className='picl'></div>
         <br/>
         <div className='pad'>
-            <h4>Love the nature</h4>
-            <h4>It has the power of healing</h4>
-            <span className='font-weight-light small'>Nine-year-old Sylvia lives in the country and has a strong connection to animals and nature. One day a young man, a hunter, comes through the area and stays with Sylvia and her grandmother. He is looking for a rare heron to add to his collection.</span>
+            <h4>Nature is a teacher</h4>
+            <h4>A deeper nature experience</h4>
+            <span className='font-weight-light small'>As I sit outside under an old plane tree that I know very well, I get the sense that summer is slowly coming to a close.Time marches on. The seasons change. Spring becomes summer, summer becomes autumn and finally autumn becomes winter. </span>
         </div>
     </div></Link>
 )
