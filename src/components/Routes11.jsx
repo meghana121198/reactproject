@@ -2,10 +2,10 @@ import React from 'react';
 import {BrowserRouter, Route, Routes} from 'react-router-dom';
 import '../index.css';
 import Home from '../pages/Home';
-import Hills from '../pages/hills';
-import Lakes from '../pages/lakes';
-import Forest from '../pages/forest';
-import Tribes from '../pages/tribes';
+import resilience from '../pages/resilience';
+import restoration from '../pages/restoration';
+import conservation from '../pages/conservation';
+import sustainable from '../pages/sustainable';
 import Openview from '../pages/openview';
 
 const Routes11 = () => {
@@ -14,10 +14,10 @@ const Routes11 = () => {
         <BrowserRouter>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/hills" element={<Hills />} />
-            <Route path="/lakes" element={<Lakes />} />
-            <Route path="/forest" element={<Forest />} />
-            <Route path="/tribes" element={<Tribes />} />
+            <Route path="/resilience" element={<resilience />} />
+            <Route path="/restoration" element={<restoration />} />
+            <Route path="/conservation" element={<conservation />} />
+            <Route path="/sustainable" element={<sustainable />} />
             <Route path="/openview" element={<Openview />} />
           </Routes>
         </BrowserRouter>
