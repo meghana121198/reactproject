@@ -40,7 +40,7 @@ const Xxx = () => {
             <br />
             <br />
             Travel /{" "}
-            <font style={{ color: "#0202" }}> I like these in 2020</font>
+            <font style={{ color: "#0202" }}> Environment, Mindfulness, Nature </font>
           </div>
           <More1 />
           <More1 />
