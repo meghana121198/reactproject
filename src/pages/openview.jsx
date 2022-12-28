@@ -38,7 +38,7 @@ return (
         </div>
         <div>
             <span className='hhh'>
-            <b>Sanjays peaceful paradise 💖</b><br/>
+            <b>Meghana paradise💖</b><br/>
             <span>ones who loves nature.</span></span>
         </div>
         </div>
