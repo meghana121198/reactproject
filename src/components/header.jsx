@@ -20,18 +20,18 @@ const Show1=()=>{
     <div className='menu' onClick={Show1}></div>
     <div id={Show} className=' nsn'>
         <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/">Home</NavLink><br/><hr/><br/>
-        <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/hills">Hills</NavLink><br/><hr/><br/>
-        <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/forest">Forest</NavLink><br/><hr/><br/>
-        <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/lakes">Lakes</NavLink><br/><hr/><br/>
-        <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/tribes">Tribes</NavLink>
+        <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/hills">resilience</NavLink><br/><hr/><br/>
+        <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/forest">conservation</NavLink><br/><hr/><br/>
+        <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/lakes">restoration</NavLink><br/><hr/><br/>
+        <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/tribes">sustainable</NavLink>
     </div>
 
     <div className='pt nsn'>
         <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/">Home</NavLink>
-        <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/hills">Hills</NavLink>
-        <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/forest">Forest</NavLink>
-        <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/lakes">Lakes</NavLink>
-        <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/tribes">Tribes</NavLink>
+        <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/hills">resilience</NavLink>
+        <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/forest">conservation</NavLink>
+        <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/lakes">restoration</NavLink>
+        <NavLink className='h12 text-decoration-none' style={{textDecoration:"none",color:"#000",fontSize:"20px"}} to="/tribes">sustainable</NavLink>
     </div>
     <hr className='hdtp' />
     </>
