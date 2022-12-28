@@ -11,10 +11,10 @@ return (
     <div className='d-flex align-items-center bst'>
         <div className='picl1 pdd'></div>
         <div className='pdd'>
-            <h5>Flowers gives birth to a fresh and to a open mind set</h5>
-            <h5>Loved the view</h5>
+            <h5>Society – The soil in which we grow</h5>
+            <h5>Connecting to Care</h5>
             <span className='font-weight-light fs-6'>
-            Open your senses to the natural wonders around you and let yourself become immersed in the superb beauty and splendor of flowers, and the wonders of Scared Geometry.
+            The soil is all important. Everything grows in the soil. If the soil is good and you have the right amount of sunshine and water everything takes care of itself. 
             </span><br /><br /><br />
             <footer className='blockquote-footer mb-0 mr-0 fs-5'>Meghagowda@yil</footer>
         </div>
