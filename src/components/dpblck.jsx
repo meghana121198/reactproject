@@ -12,7 +12,7 @@ return (
         </div>
         <div>
             <span className='hhh'>
-            <b>Meghana paradise 💖</b><br/></span>
+            <b>Meghana V Gowda</b><br/></span>
         </div>
         </div>
     </>
