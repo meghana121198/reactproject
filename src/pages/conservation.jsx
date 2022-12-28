@@ -3,12 +3,12 @@ import Header from '../components/header'
 import '../app.css'
 import Xxx from '../components/xxx'
 
-export default function Forest() {
+export default function conservation() {
 return (
     <>
     <Header />
     <br />
-    <h1>Forest</h1>
+    <h1>conservation</h1>
     <div className='blne'></div> <br />
     <Xxx/>
     </>
