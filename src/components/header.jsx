@@ -15,7 +15,7 @@ const Show1=()=>{
     <br/>
     <div className='text-center'>
     <p className='rtt'>The</p>
-    <span className='fs-1 ss'>SKIES ON LAND</span>
+    <span className='fs-1 ss'>NATURE IN MIND</span>
     </div>
     <div className='menu' onClick={Show1}></div>
     <div id={Show} className=' nsn'>
