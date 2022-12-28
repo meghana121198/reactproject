@@ -13,17 +13,17 @@ export default function Home() {
     <Header />
     <div className='flex1'>
       <div className='cont1'>
-        <span className='imgtxt1 hhd'>Love of violet</span>
-        <h4 className='line'>Hiii everyone...</h4>
+        <span className='imgtxt1 hhd'>Since we do not love nature,</span>
+        <h4 className='line'> we do not know how to love human beings.</h4>
       </div>
       <div className='cont2'>
         <div className='cont3'>
-        <span className='imgtxt2 hhd1'>Love of violet</span>
-        <h6 className='line1'>Hiii everyone...</h6>
+        <span className='imgtxt2 hhd1'>Since we do not love nature,</span>
+        <h6 className='line1'>we do not know how to love human beings.</h6>
         </div>
         <div className='cont3'>
-        <span className='imgtxt2 hhd1'>Love of violet</span>
-        <h6 className='line1 ll1'>Hiii everyone...</h6>
+        <span className='imgtxt2 hhd1'>Since we do not love nature,</span>
+        <h6 className='line1 ll1'>we do not know how to love human beings.</h6>
         </div>
       </div>
     </div>
@@ -41,8 +41,8 @@ export default function Home() {
     <br /><br />
     <div className='picb'>
         <span className='btxt ttp'>
-            <h1>You see Trees !!</h1>
-            <h2>We see heaven of peacefulness</h2>
+            <h1>See for the first time that tree,</h1>
+            <h2>bush or blade of grass.</h2>
         </span>
     </div>
     </div>
@@ -56,9 +56,9 @@ export default function Home() {
       <div className='img11'></div>
       <div>
         <br/>
-        <h3>Enjoy the moments</h3>
-        For other uses, see Mother Earth. For the song, see Mother Nature.For environmental organization, see Mother Nature Cambodia.
-        <br /><br/>Travel / <font style={{color:"#0202"}}> I like these in 2020</font>
+        <h3>Right Relationship With Nature?</h3>
+         Right relationship implies the acceptance of a formula, as does right thought. Right thought and right thinking are two different things.
+        <br /><br/>Travel / <font style={{color:"#0202"}}>Earth, Intelligence, Poem</font>
       </div>
       <More1 /><More1 /><br/><hr/>
     </div>
