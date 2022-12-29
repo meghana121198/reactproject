@@ -3,7 +3,7 @@ import Header from '../components/header'
 import '../app.css'
 import Xxx from '../components/xxx'
 
-export default function conservation() {
+export default function forest() {
 return (
     <>
     <Header />
